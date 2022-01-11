@@ -1,0 +1,181 @@
+
+.header {
+    width: 100%;
+    height: 62px;
+    font-weight: bold;
+    background: #fff;
+    border-bottom: 1px solid #0a0a0a;
+    float: left;
+    position: fixed;
+    top: 0;
+    display: flex;
+    z-index: 999;
+}
+h2{
+    color: brown;
+    background: chartreuse;
+}
+ul.op-header {
+    display: flex;
+    list-style: none;
+    width: 80%;
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+}
+
+.op-header li {
+    margin: 15px;
+}
+
+.op-header li :hover {
+    color: #3399cc;
+}
+
+.icon-header {
+    margin: 23px;
+    margin-left: -27px;
+}
+
+span.dnbc-iconuser {
+    margin-left: 20px;
+}
+
+i.ti-more-alt {
+    margin: 15px;
+    position: relative;
+    right: -50px;
+}
+
+.ti-search {
+    position: relative;
+    right: 25px;
+    top: 3px;
+    color: white;
+}
+
+.input-search {
+    background: black;
+    height: 28px;
+    border: 1px;
+    border-radius: 8px;
+    color: white;
+}
+
+i.ti-search :hover {
+    background-color: #3399cc;
+}
+
+i {
+    cursor: pointer;
+}
+.xahoi {
+    width: 100%;
+    height: 62px;
+    font-weight: bold;
+    background: #fff;
+    border-bottom: 3px solid #0a0a0a;
+    float: left;
+
+    display: flex;
+    z-index: 999;
+}
+h4.op-xahoi {
+    display: flex;
+    list-style: none;
+    width: 90%;
+    justify-content: center;
+    text-align: center;
+    margin: 100px;
+}
+.op-xahoi li {
+    margin: 15px;
+}
+.op-xahoi li :hover {
+    color: #3399cc;
+}
+
+.saigonmetro {
+    width: 100%;
+    height: 62px;
+    font-weight: bold;
+    background: #fff;
+    border-bottom: 1px solid #0a0a0a;
+    float: left;
+
+    display: flex;
+    z-index: 999;
+}
+.video {
+    width: 100%;
+    height: 62px;
+    font-weight: bold;
+    background: #fff;
+    border-bottom: 1px solid #0a0a0a;
+    float: left;
+
+    display: flex;
+    z-index: 999
+}
+a {
+    text-decoration: none;
+}
+
+
+
+.thegioi {
+    width: 100%;
+    height: 62px;
+    font-weight: bold;
+    background: #fff;
+    border-bottom: 3px solid #0a0a0a;
+    float: left;
+
+    display: flex;
+    z-index: 999;
+}
+h4.op-thegioi {
+    display: flex;
+    list-style: none;
+    width: 90%;
+    justify-content: center;
+    border-bottom: 1px solid #6c6969;
+    text-align: center;
+    margin: 100px;
+}
+.op-thegioi li {
+    margin: 15px;
+}
+.op-thegioi li :hover {
+    color: #3399cc;
+}
+header1 {
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    display: flex;
+}
+h1{
+    color: blue;
+    background: aqua;
+}
+.head-left li{
+    list-style: none;
+    padding: 5px;
+    margin-left: 10%;
+    background-color:#dfe6e9;
+    border-radius: 15px;
+    width: 150px;
+    text-align: center;
+}
+.head-left li:hover{
+    background: linear-gradient(90deg, rgba(8,237,109,1) 0%, rgba(24,142,148,0.9486169467787114) 100%, rgba(0,212,255,1) 100%);;
+    color: white;
+}
+.content .content-left .content-left-post a{
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+}
+.content .content-left .content-left-post a:hover{
+    color: #1c78cd;
+}
